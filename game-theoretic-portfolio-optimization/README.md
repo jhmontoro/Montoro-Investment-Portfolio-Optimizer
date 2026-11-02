@@ -1,6 +1,6 @@
 # Game-Theoretic Portfolio Optimization
 
-A reproducible Math 693A project implementing numerical methods for complete- and incomplete-information portfolio games.
+A reproducible project implementing numerical methods for complete- and incomplete-information portfolio games.
 
 The project follows the progression:
 
