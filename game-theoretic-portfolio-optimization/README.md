@@ -8,7 +8,7 @@ The project follows the progression:
 2. complete-information Nash equilibrium;
 3. Bayesian Nash equilibrium with private market types.
 
-The implementation includes Newton, Broyden, BFGS, trust-region Gauss–Newton, and alternating best-response iteration. The model uses a softmax reparameterization so the long-only, fully-invested portfolio constraint is handled while the numerical algorithms operate on unconstrained logits.
+The implementation includes Newton, Broyden, BFGS, trust-region Gauss–Newton, and alternating best-response iteration. The model uses a softmax (describe choice of reparameterizaton) reparameterization so the long-only, fully-invested portfolio constraint is handled while the numerical algorithms operate on unconstrained logits.
 
 ## Installation
 
